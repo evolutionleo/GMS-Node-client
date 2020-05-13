@@ -1,0 +1,5 @@
+_halign = draw_get_halign()
+_valign = draw_get_valign()
+_color = draw_get_color()
+_alpha = draw_get_alpha()
+_font = draw_get_font()
